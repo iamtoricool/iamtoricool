@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtoricool&label=Profile%20views&color=0e75b6&style=flat" alt="iamtoricool" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamtoricool" alt="iamtoricool" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=iamtoricool" alt="iamtoricool" /></p>
 
-<p align="left"> <a href="https://twitter.com/iamtoricool" target="blank"><img src="https://img.shields.io/twitter/follow/iamtoricool?logo=twitter&style=for-the-badge" alt="iamtoricool" /></a> </p>
+<p align="left"><img src="https://img.shields.io/twitter/follow/iamtoricool?logo=twitter&style=for-the-badge" alt="iamtoricool" /></p>
 
 - 🔭 I’m currently working on [Blood Donation App](https://github.com/iamtoricool/BloodDonationApp)
 
